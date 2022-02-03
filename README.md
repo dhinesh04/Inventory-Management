@@ -1,3 +1,3 @@
 # Inventory Management System
-For this project, the language used is Java. 
-The concepts of Java swings is also implemented.
+* Created a bicycle inventory system to manage customers, suppliers and stock in the inventory using Java Swings
+* Language/Tools - Java, NetBeans
